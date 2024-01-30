@@ -1,3 +1,8 @@
+![PriceTracker1](https://github.com/mohabelgendyy/Ecommerce-priceTracker-WebScraping-NextJs-TS/assets/141507408/b29e7392-0302-4b03-8b57-3136b79f7469)
+![PriceTracker2](https://github.com/mohabelgendyy/Ecommerce-priceTracker-WebScraping-NextJs-TS/assets/141507408/02980a40-8730-4856-942e-4c121dec8a2c)
+![PriceTracker3](https://github.com/mohabelgendyy/Ecommerce-priceTracker-WebScraping-NextJs-TS/assets/141507408/02e831b4-24b7-45b1-9a92-f5293aedfa53)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
